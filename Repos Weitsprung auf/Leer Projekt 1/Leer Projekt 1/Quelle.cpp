@@ -74,7 +74,10 @@ void main()
 			}
 			break;
 		/case 's':
-			for
+			for (size_t i = 0; i < length; i++)
+			{
+				cout << "Hallo";
+			}
 				break
 		}
 
