@@ -73,10 +73,10 @@ void main()
 				cout << "\n";
 			}
 			break;
-		//case 's':
-		//	for
-		//		break
-		//}
+		/case 's':
+			for
+				break
+		}
 
 
 	} while (menue != 'j');
